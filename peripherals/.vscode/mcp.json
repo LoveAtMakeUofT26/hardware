@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "platformio": {
+            "command": "/opt/homebrew/bin/node",
+            "args": [
+                "/Users/benpetlach/Desktop/dev/platformio-mcp/build/index.js"
+            ],
+            "env": {
+                "PATH": "/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
+            }
+        }
+    }
+}
